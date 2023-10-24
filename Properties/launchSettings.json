@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PlaywrightDemo": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
